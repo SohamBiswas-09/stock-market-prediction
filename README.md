@@ -134,4 +134,10 @@ CREATE TABLE history (
 
 ---
 
+### Thumbnail
+Below is the thumbnail image for the project:
+<img width="1365" height="594" alt="image" src="https://github.com/user-attachments/assets/f79b2012-fc99-42c6-8920-5e4b9a4935f3" />
+
+
+
 
