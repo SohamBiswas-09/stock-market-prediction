@@ -11,9 +11,7 @@ The project is composed of multiple modules, including **data preprocessing**, *
 - [Installation](#installation)
 - [Usage](#usage)
 - [Database Setup](#database-setup)
-- [License](#license)
-- [Contributing](#contributing)
-- [Contact](#contact)
+
 
 ---
 
@@ -136,20 +134,4 @@ CREATE TABLE history (
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
----
-
-## 🤝 Contributing
-Pull requests are welcome!  
-For major changes, please open an issue first to discuss what you’d like to change.
-
----
-
-## 📧 Contact
-For questions or suggestions, please reach out to:
-
-**Shubham Shaw**  
-📩 Email: your-email@example.com  
-🔗 GitHub: [ShubhamShaw01](https://github.com/ShubhamShaw01)
