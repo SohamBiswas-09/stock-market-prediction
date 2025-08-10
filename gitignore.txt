@@ -1,0 +1,26 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# VSCode settings (optional)
+.vscode/
+
+# Python egg info
+*.egg-info/
+
+# MacOS and system files
+.DS_Store
+
+# Docker files (optional)
+*.log
+
+.env*
+# certificates
+*.pem
